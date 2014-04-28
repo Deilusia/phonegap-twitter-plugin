@@ -5,7 +5,7 @@ Twitter plugin for Phonegap 3 (tested with 3.4.0) using Twitter4j and InAppBrows
 
 Required:
 - Twitter4j Core Library must be added to your android project. You can download the latest version from http://twitter4j.org/. I have tested it with version 4.0.1.
-- InAppBrowser Plugin must be added to your project. You can install that by following the instrcutions here http://docs.phonegap.com/en/3.0.0/cordova_inappbrowser_inappbrowser.md.html
+- InAppBrowser Plugin must be added to your project. You can install that by following the instructions here http://docs.phonegap.com/en/3.0.0/cordova_inappbrowser_inappbrowser.md.html
 
 
 Initialize
